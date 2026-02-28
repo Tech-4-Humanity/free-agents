@@ -1,0 +1,1050 @@
+{
+  "AI_ML": [
+    {
+      "name": "Auto-tag Blog Posts",
+      "file": "auto-tag_blog_posts.json",
+      "category": "AI_ML"
+    },
+    {
+      "name": "Customer Sentiment Analysis",
+      "file": "customer_sentiment_analysis.json",
+      "category": "AI_ML"
+    },
+    {
+      "name": "Daily Content Ideas",
+      "file": "daily_content_ideas.json",
+      "category": "AI_ML"
+    },
+    {
+      "name": "Image Captioning",
+      "file": "image_captioning.json",
+      "category": "AI_ML"
+    },
+    {
+      "name": "Product Description Generator",
+      "file": "product_description_generator.json",
+      "category": "AI_ML"
+    },
+    {
+      "name": "Resume Screening",
+      "file": "resume_screening.json",
+      "category": "AI_ML"
+    },
+    {
+      "name": "Summarize Customer Emails",
+      "file": "summarize_customer_emails.json",
+      "category": "AI_ML"
+    },
+    {
+      "name": "Ticket Urgency Classification",
+      "file": "ticket_urgency_classification.json",
+      "category": "AI_ML"
+    },
+    {
+      "name": "Translate Form Submissions",
+      "file": "translate_form_submissions.json",
+      "category": "AI_ML"
+    },
+    {
+      "name": "Voice Note Transcription",
+      "file": "voice_note_transcription.json",
+      "category": "AI_ML"
+    }
+  ],
+  "Agriculture": [
+    {
+      "name": "Commodity Price Tracker",
+      "file": "commodity_price_tracker.json",
+      "category": "Agriculture"
+    },
+    {
+      "name": "Crop Yield Predictor",
+      "file": "crop_yield_predictor.json",
+      "category": "Agriculture"
+    },
+    {
+      "name": "Drone Image Crop Health",
+      "file": "drone_image_crop_health.json",
+      "category": "Agriculture"
+    },
+    {
+      "name": "Farm Equipment Maintenance Reminder",
+      "file": "farm_equipment_maintenance_reminder.json",
+      "category": "Agriculture"
+    },
+    {
+      "name": "Greenhouse Climate Controller",
+      "file": "greenhouse_climate_controller.json",
+      "category": "Agriculture"
+    },
+    {
+      "name": "Harvest Logbook",
+      "file": "harvest_logbook.json",
+      "category": "Agriculture"
+    },
+    {
+      "name": "Irrigation Schedule Optimizer",
+      "file": "irrigation_schedule_optimizer.json",
+      "category": "Agriculture"
+    },
+    {
+      "name": "Pest Outbreak Alert",
+      "file": "pest_outbreak_alert.json",
+      "category": "Agriculture"
+    },
+    {
+      "name": "Soil Nutrient Analysis",
+      "file": "soil_nutrient_analysis.json",
+      "category": "Agriculture"
+    },
+    {
+      "name": "Weather Impact Report",
+      "file": "weather_impact_report.json",
+      "category": "Agriculture"
+    }
+  ],
+  "Automotive": [
+    {
+      "name": "ADAS Event Annotator",
+      "file": "adas_event_annotator.json",
+      "category": "Automotive"
+    },
+    {
+      "name": "Autonomous Vehicle Log Summarizer",
+      "file": "autonomous_vehicle_log_summarizer.json",
+      "category": "Automotive"
+    },
+    {
+      "name": "Car Insurance Quote Generator",
+      "file": "car_insurance_quote_generator.json",
+      "category": "Automotive"
+    },
+    {
+      "name": "Connected Car Alert",
+      "file": "connected_car_alert.json",
+      "category": "Automotive"
+    },
+    {
+      "name": "Dealer Lead Qualifier",
+      "file": "dealer_lead_qualifier.json",
+      "category": "Automotive"
+    },
+    {
+      "name": "EV Battery Degradation Report",
+      "file": "ev_battery_degradation_report.json",
+      "category": "Automotive"
+    },
+    {
+      "name": "Fleet Fuel Efficiency Report",
+      "file": "fleet_fuel_efficiency_report.json",
+      "category": "Automotive"
+    },
+    {
+      "name": "Recall Notice Tracker",
+      "file": "recall_notice_tracker.json",
+      "category": "Automotive"
+    },
+    {
+      "name": "Ride\u2011Share Surge Predictor",
+      "file": "ride\u2011share_surge_predictor.json",
+      "category": "Automotive"
+    },
+    {
+      "name": "VIN Decoder",
+      "file": "vin_decoder.json",
+      "category": "Automotive"
+    }
+  ],
+  "Creative_Content": [
+    {
+      "name": "YouTube Transcript to Blog",
+      "file": "youtube_transcript_to_blog.json",
+      "category": "Creative_Content"
+    }
+  ],
+  "Data_Analytics": [
+    {
+      "name": "Competitor Price Scraper",
+      "file": "competitor_price_scraper.json",
+      "category": "Data_Analytics"
+    }
+  ],
+  "DevOps": [
+    {
+      "name": "GitHub Commit Jenkins",
+      "file": "github_commit_jenkins.json",
+      "category": "DevOps"
+    }
+  ],
+  "E_Commerce_Retail": [
+    {
+      "name": "Abandoned Cart Email",
+      "file": "abandoned_cart_email.json",
+      "category": "E_Commerce_Retail"
+    },
+    {
+      "name": "Inventory Slack Alert",
+      "file": "inventory_slack_alert.json",
+      "category": "E_Commerce_Retail"
+    },
+    {
+      "name": "Shopify Order SMS",
+      "file": "shopify_order_sms.json",
+      "category": "E_Commerce_Retail"
+    }
+  ],
+  "Education": [
+    {
+      "name": "Daily Student Motivation",
+      "file": "daily_student_motivation.json",
+      "category": "Education"
+    },
+    {
+      "name": "Quiz Auto Grader",
+      "file": "quiz_auto_grader.json",
+      "category": "Education"
+    }
+  ],
+  "Email_Automation": [
+    {
+      "name": "Auto Archive Promotions",
+      "file": "auto_archive_promotions.json",
+      "category": "Email_Automation"
+    },
+    {
+      "name": "Auto Reply to FAQs",
+      "file": "auto_reply_to_faqs.json",
+      "category": "Email_Automation"
+    },
+    {
+      "name": "Daily Email Digest",
+      "file": "daily_email_digest.json",
+      "category": "Email_Automation"
+    },
+    {
+      "name": "Follow-up Emails",
+      "file": "follow-up_emails.json",
+      "category": "Email_Automation"
+    },
+    {
+      "name": "Forward Attachments",
+      "file": "forward_attachments.json",
+      "category": "Email_Automation"
+    },
+    {
+      "name": "Lead to HubSpot",
+      "file": "lead_to_hubspot.json",
+      "category": "Email_Automation"
+    },
+    {
+      "name": "Mailchimp Campaign Tracking",
+      "file": "mailchimp_campaign_tracking.json",
+      "category": "Email_Automation"
+    },
+    {
+      "name": "Parse Invoice Emails",
+      "file": "parse_invoice_emails.json",
+      "category": "Email_Automation"
+    },
+    {
+      "name": "Product Launch Email",
+      "file": "product_launch_email.json",
+      "category": "Email_Automation"
+    },
+    {
+      "name": "SendGrid Bounce Alert",
+      "file": "sendgrid_bounce_alert.json",
+      "category": "Email_Automation"
+    }
+  ],
+  "Energy": [
+    {
+      "name": "Battery Health Monitor",
+      "file": "battery_health_monitor.json",
+      "category": "Energy"
+    },
+    {
+      "name": "Carbon Footprint Estimator",
+      "file": "carbon_footprint_estimator.json",
+      "category": "Energy"
+    },
+    {
+      "name": "Energy Consumption Anomaly Detector",
+      "file": "energy_consumption_anomaly_detector.json",
+      "category": "Energy"
+    },
+    {
+      "name": "EV Charging Station Locator",
+      "file": "ev_charging_station_locator.json",
+      "category": "Energy"
+    },
+    {
+      "name": "Fuel Price Monitor",
+      "file": "fuel_price_monitor.json",
+      "category": "Energy"
+    },
+    {
+      "name": "Grid Load Alert",
+      "file": "grid_load_alert.json",
+      "category": "Energy"
+    },
+    {
+      "name": "Power Outage SMS",
+      "file": "power_outage_sms.json",
+      "category": "Energy"
+    },
+    {
+      "name": "Renewable Incentive Tracker",
+      "file": "renewable_incentive_tracker.json",
+      "category": "Energy"
+    },
+    {
+      "name": "Solar Output Forecaster",
+      "file": "solar_output_forecaster.json",
+      "category": "Energy"
+    },
+    {
+      "name": "Wind Farm Maintenance Scheduler",
+      "file": "wind_farm_maintenance_scheduler.json",
+      "category": "Energy"
+    }
+  ],
+  "Finance_Accounting": [
+    {
+      "name": "Currency Rate Monitor",
+      "file": "currency_rate_monitor.json",
+      "category": "Finance_Accounting"
+    },
+    {
+      "name": "Monthly Expense Report",
+      "file": "monthly_expense_report.json",
+      "category": "Finance_Accounting"
+    },
+    {
+      "name": "OCR Receipts to Notion",
+      "file": "ocr_receipts_to_notion.json",
+      "category": "Finance_Accounting"
+    },
+    {
+      "name": "PayPal to Airtable",
+      "file": "paypal_to_airtable.json",
+      "category": "Finance_Accounting"
+    },
+    {
+      "name": "Stripe to QuickBooks",
+      "file": "stripe_to_quickbooks.json",
+      "category": "Finance_Accounting"
+    },
+    {
+      "name": "Transaction Logs Backup",
+      "file": "transaction_logs_backup.json",
+      "category": "Finance_Accounting"
+    },
+    {
+      "name": "Unpaid Invoice Reminder",
+      "file": "unpaid_invoice_reminder.json",
+      "category": "Finance_Accounting"
+    },
+    {
+      "name": "Weekly Shopify Sales Summary",
+      "file": "weekly_shopify_sales_summary.json",
+      "category": "Finance_Accounting"
+    }
+  ],
+  "Gaming": [
+    {
+      "name": "Achievement Suggestion Engine",
+      "file": "achievement_suggestion_engine.json",
+      "category": "Gaming"
+    },
+    {
+      "name": "Discord Guild Welcome Bot",
+      "file": "discord_guild_welcome_bot.json",
+      "category": "Gaming"
+    },
+    {
+      "name": "Esports Match Alert",
+      "file": "esports_match_alert.json",
+      "category": "Gaming"
+    },
+    {
+      "name": "Game Bug Triage",
+      "file": "game_bug_triage.json",
+      "category": "Gaming"
+    },
+    {
+      "name": "In\u2011Game Event Reminder",
+      "file": "in\u2011game_event_reminder.json",
+      "category": "Gaming"
+    },
+    {
+      "name": "Loot\u2011box Probability Calculator",
+      "file": "loot\u2011box_probability_calculator.json",
+      "category": "Gaming"
+    },
+    {
+      "name": "Patch Note Summarizer",
+      "file": "patch_note_summarizer.json",
+      "category": "Gaming"
+    },
+    {
+      "name": "Player Sentiment Dashboard",
+      "file": "player_sentiment_dashboard.json",
+      "category": "Gaming"
+    },
+    {
+      "name": "Twitch Clip Highlights Script",
+      "file": "twitch_clip_highlights_script.json",
+      "category": "Gaming"
+    },
+    {
+      "name": "Virtual Economy Price Tracker",
+      "file": "virtual_economy_price_tracker.json",
+      "category": "Gaming"
+    }
+  ],
+  "Government_NGO": [
+    {
+      "name": "Public Form Auto Triage",
+      "file": "public_form_auto_triage.json",
+      "category": "Government_NGO"
+    },
+    {
+      "name": "Public Record Email Update",
+      "file": "public_record_email_update.json",
+      "category": "Government_NGO"
+    }
+  ],
+  "HR": [
+    {
+      "name": "New Job Application Parser",
+      "file": "new_job_application_parser.json",
+      "category": "HR"
+    },
+    {
+      "name": "Notion Job Board Poster",
+      "file": "notion_job_board_poster.json",
+      "category": "HR"
+    }
+  ],
+  "Healthcare": [
+    {
+      "name": "Appointment WhatsApp Notify",
+      "file": "appointment_whatsapp_notify.json",
+      "category": "Healthcare"
+    }
+  ],
+  "IoT": [
+    {
+      "name": "BLE Beacon Mapper",
+      "file": "ble_beacon_mapper.json",
+      "category": "IoT"
+    },
+    {
+      "name": "Edge Device Log Compressor",
+      "file": "edge_device_log_compressor.json",
+      "category": "IoT"
+    },
+    {
+      "name": "Environmental Data Dashboard",
+      "file": "environmental_data_dashboard.json",
+      "category": "IoT"
+    },
+    {
+      "name": "Industrial IoT KPI Email",
+      "file": "industrial_iot_kpi_email.json",
+      "category": "IoT"
+    },
+    {
+      "name": "IoT Device Firmware Update Planner",
+      "file": "iot_device_firmware_update_planner.json",
+      "category": "IoT"
+    },
+    {
+      "name": "MQTT Topic Monitor",
+      "file": "mqtt_topic_monitor.json",
+      "category": "IoT"
+    },
+    {
+      "name": "Predictive Maintenance Alert",
+      "file": "predictive_maintenance_alert.json",
+      "category": "IoT"
+    },
+    {
+      "name": "Sensor Fault Detector",
+      "file": "sensor_fault_detector.json",
+      "category": "IoT"
+    },
+    {
+      "name": "Smart Home Energy Saver",
+      "file": "smart_home_energy_saver.json",
+      "category": "IoT"
+    },
+    {
+      "name": "Vehicle Telematics Analyzer",
+      "file": "vehicle_telematics_analyzer.json",
+      "category": "IoT"
+    }
+  ],
+  "Legal_Tech": [
+    {
+      "name": "Case Law Summarizer",
+      "file": "case_law_summarizer.json",
+      "category": "Legal_Tech"
+    },
+    {
+      "name": "Compliance Checklist Builder",
+      "file": "compliance_checklist_builder.json",
+      "category": "Legal_Tech"
+    },
+    {
+      "name": "Contract Clause Extractor",
+      "file": "contract_clause_extractor.json",
+      "category": "Legal_Tech"
+    },
+    {
+      "name": "Court Date Reminder",
+      "file": "court_date_reminder.json",
+      "category": "Legal_Tech"
+    },
+    {
+      "name": "GDPR Violation Alert",
+      "file": "gdpr_violation_alert.json",
+      "category": "Legal_Tech"
+    },
+    {
+      "name": "Legal Billing Analyzer",
+      "file": "legal_billing_analyzer.json",
+      "category": "Legal_Tech"
+    },
+    {
+      "name": "NDA Risk Detector",
+      "file": "nda_risk_detector.json",
+      "category": "Legal_Tech"
+    },
+    {
+      "name": "Patent Abstract Summarizer",
+      "file": "patent_abstract_summarizer.json",
+      "category": "Legal_Tech"
+    },
+    {
+      "name": "Privacy Policy Generator",
+      "file": "privacy_policy_generator.json",
+      "category": "Legal_Tech"
+    },
+    {
+      "name": "Trademark Status Monitor",
+      "file": "trademark_status_monitor.json",
+      "category": "Legal_Tech"
+    }
+  ],
+  "Manufacturing": [
+    {
+      "name": "Inventory Restock Forecast",
+      "file": "inventory_restock_forecast.json",
+      "category": "Manufacturing"
+    },
+    {
+      "name": "Machine Downtime Predictor",
+      "file": "machine_downtime_predictor.json",
+      "category": "Manufacturing"
+    },
+    {
+      "name": "Maintenance Ticket Router",
+      "file": "maintenance_ticket_router.json",
+      "category": "Manufacturing"
+    },
+    {
+      "name": "MES Log Analyzer",
+      "file": "mes_log_analyzer.json",
+      "category": "Manufacturing"
+    },
+    {
+      "name": "Packaging Waste Calculator",
+      "file": "packaging_waste_calculator.json",
+      "category": "Manufacturing"
+    },
+    {
+      "name": "Production KPI Dashboard",
+      "file": "production_kpi_dashboard.json",
+      "category": "Manufacturing"
+    },
+    {
+      "name": "Quality Defect Classifier",
+      "file": "quality_defect_classifier.json",
+      "category": "Manufacturing"
+    },
+    {
+      "name": "Safety Incident Alert",
+      "file": "safety_incident_alert.json",
+      "category": "Manufacturing"
+    },
+    {
+      "name": "Shift Handover Summary",
+      "file": "shift_handover_summary.json",
+      "category": "Manufacturing"
+    },
+    {
+      "name": "Supply Chain Delay Monitor",
+      "file": "supply_chain_delay_monitor.json",
+      "category": "Manufacturing"
+    }
+  ],
+  "Media": [
+    {
+      "name": "Ad Campaign Performance Alert",
+      "file": "ad_campaign_performance_alert.json",
+      "category": "Media"
+    },
+    {
+      "name": "Breaking News Summarizer",
+      "file": "breaking_news_summarizer.json",
+      "category": "Media"
+    },
+    {
+      "name": "Content Idea Brainstormer",
+      "file": "content_idea_brainstormer.json",
+      "category": "Media"
+    },
+    {
+      "name": "Live Stream Chat Moderator",
+      "file": "live_stream_chat_moderator.json",
+      "category": "Media"
+    },
+    {
+      "name": "Music Playlist Mood Tagger",
+      "file": "music_playlist_mood_tagger.json",
+      "category": "Media"
+    },
+    {
+      "name": "Podcast Show Notes Generator",
+      "file": "podcast_show_notes_generator.json",
+      "category": "Media"
+    },
+    {
+      "name": "PR Crisis Detector",
+      "file": "pr_crisis_detector.json",
+      "category": "Media"
+    },
+    {
+      "name": "Script Dialogue Analyzer",
+      "file": "script_dialogue_analyzer.json",
+      "category": "Media"
+    },
+    {
+      "name": "Social Buzz Heatmap",
+      "file": "social_buzz_heatmap.json",
+      "category": "Media"
+    },
+    {
+      "name": "TV Rating Trend Report",
+      "file": "tv_rating_trend_report.json",
+      "category": "Media"
+    }
+  ],
+  "Misc": [
+    {
+      "name": "API Monitor Auto Restart",
+      "file": "api_monitor_auto_restart.json",
+      "category": "Misc"
+    },
+    {
+      "name": "API Stats Chart",
+      "file": "api_stats_chart.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Applicant Feedback Folder",
+      "file": "applicant_feedback_folder.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Assignment SMS Reminder",
+      "file": "assignment_sms_reminder.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Bank SMS Alert to Telegram",
+      "file": "bank_sms_alert_to_telegram.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Birthday Telegram Reminder",
+      "file": "birthday_telegram_reminder.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Blog Comment Discord",
+      "file": "blog_comment_discord.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Blood Test Email Alert",
+      "file": "blood_test_email_alert.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Calendar Event Auto-tag",
+      "file": "calendar_event_auto-tag.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Calendar to ClickUp",
+      "file": "calendar_to_clickup.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Course Completion Certificate",
+      "file": "course_completion_certificate.json",
+      "category": "Misc"
+    },
+    {
+      "name": "CRM Patient Intake",
+      "file": "crm_patient_intake.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Cron Success Slack",
+      "file": "cron_success_slack.json",
+      "category": "Misc"
+    },
+    {
+      "name": "CSV Attachment to Airtable",
+      "file": "csv_attachment_to_airtable.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Customer Auto-tagging",
+      "file": "customer_auto-tagging.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Disaster API SMS",
+      "file": "disaster_api_sms.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Drink Water Reminder",
+      "file": "drink_water_reminder.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Etsy Review to Slack",
+      "file": "etsy_review_to_slack.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Fitness API Weekly Report",
+      "file": "fitness_api_weekly_report.json",
+      "category": "Misc"
+    },
+    {
+      "name": "GA Report Email",
+      "file": "ga_report_email.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Grant Application Routing",
+      "file": "grant_application_routing.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Habit Form Weekly Summary",
+      "file": "habit_form_weekly_summary.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Hourly Weather Log",
+      "file": "hourly_weather_log.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Idea to IG Carousel",
+      "file": "idea_to_ig_carousel.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Interview Scheduler",
+      "file": "interview_scheduler.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Issue Trello Card",
+      "file": "issue_trello_card.json",
+      "category": "Misc"
+    },
+    {
+      "name": "JSON to Sheet",
+      "file": "json_to_sheet.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Keyword Rank Checker",
+      "file": "keyword_rank_checker.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Low Stock Discord",
+      "file": "low_stock_discord.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Medication SMS Reminder",
+      "file": "medication_sms_reminder.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Notion API Update",
+      "file": "notion_api_update.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Onboarding Checklist Slack",
+      "file": "onboarding_checklist_slack.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Order Shipped Notification",
+      "file": "order_shipped_notification.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Podcast Transcribe Publish",
+      "file": "podcast_transcribe_publish.json",
+      "category": "Misc"
+    },
+    {
+      "name": "PR Merged QA Notify",
+      "file": "pr_merged_qa_notify.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Price Update Google Sheet",
+      "file": "price_update_google_sheet.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Record Crypto Prices",
+      "file": "record_crypto_prices.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Return Ticket Assignment",
+      "file": "return_ticket_assignment.json",
+      "category": "Misc"
+    },
+    {
+      "name": "RSS Headlines Slack",
+      "file": "rss_headlines_slack.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Server Health Grafana",
+      "file": "server_health_grafana.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Starred Slack to Notion",
+      "file": "starred_slack_to_notion.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Survey Auto Analyze",
+      "file": "survey_auto_analyze.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Toggl Daily Report",
+      "file": "toggl_daily_report.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Unsplash to Pinterest",
+      "file": "unsplash_to_pinterest.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Voice Task to Notion",
+      "file": "voice_task_to_notion.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Weekly Notes Backup",
+      "file": "weekly_notes_backup.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Woo Order Mailchimp",
+      "file": "woo_order_mailchimp.json",
+      "category": "Misc"
+    },
+    {
+      "name": "Zoom Attendance Log",
+      "file": "zoom_attendance_log.json",
+      "category": "Misc"
+    }
+  ],
+  "Productivity": [
+    {
+      "name": "Morning Briefing Email",
+      "file": "morning_briefing_email.json",
+      "category": "Productivity"
+    }
+  ],
+  "Real_Estate": [
+    {
+      "name": "HOA Fee Analyzer",
+      "file": "hoa_fee_analyzer.json",
+      "category": "Real_Estate"
+    },
+    {
+      "name": "Lead Scoring with MLS Data",
+      "file": "lead_scoring_with_mls_data.json",
+      "category": "Real_Estate"
+    },
+    {
+      "name": "Mortgage Rate Alert",
+      "file": "mortgage_rate_alert.json",
+      "category": "Real_Estate"
+    },
+    {
+      "name": "Neighborhood Safety Insights",
+      "file": "neighborhood_safety_insights.json",
+      "category": "Real_Estate"
+    },
+    {
+      "name": "Open House Reminder",
+      "file": "open_house_reminder.json",
+      "category": "Real_Estate"
+    },
+    {
+      "name": "Property Description Generator",
+      "file": "property_description_generator.json",
+      "category": "Real_Estate"
+    },
+    {
+      "name": "Real Estate Market Trend Report",
+      "file": "real_estate_market_trend_report.json",
+      "category": "Real_Estate"
+    },
+    {
+      "name": "Rental Price Estimator",
+      "file": "rental_price_estimator.json",
+      "category": "Real_Estate"
+    },
+    {
+      "name": "Tenant Screening Summary",
+      "file": "tenant_screening_summary.json",
+      "category": "Real_Estate"
+    },
+    {
+      "name": "Zoning Regulation Checker",
+      "file": "zoning_regulation_checker.json",
+      "category": "Real_Estate"
+    }
+  ],
+  "Social_Media": [
+    {
+      "name": "Alert on Instagram Competitor Story",
+      "file": "alert_on_instagram_competitor_story.json",
+      "category": "Social_Media"
+    },
+    {
+      "name": "Auto-DM New Twitter Followers",
+      "file": "auto-dm_new_twitter_followers.json",
+      "category": "Social_Media"
+    },
+    {
+      "name": "Auto-post Blogs to LinkedIn and Twitter",
+      "file": "auto-post_blogs_to_linkedin_and_twitter.json",
+      "category": "Social_Media"
+    },
+    {
+      "name": "Auto-reply to TikTok Comments",
+      "file": "auto-reply_to_tiktok_comments.json",
+      "category": "Social_Media"
+    },
+    {
+      "name": "Cross-post YouTube Uploads to Facebook",
+      "file": "cross-post_youtube_uploads_to_facebook.json",
+      "category": "Social_Media"
+    },
+    {
+      "name": "Log Twitter Mentions in Notion",
+      "file": "log_twitter_mentions_in_notion.json",
+      "category": "Social_Media"
+    },
+    {
+      "name": "Monthly Social Media Report",
+      "file": "monthly_social_media_report.json",
+      "category": "Social_Media"
+    },
+    {
+      "name": "Reddit Upvote Alert",
+      "file": "reddit_upvote_alert.json",
+      "category": "Social_Media"
+    },
+    {
+      "name": "Schedule Instagram Content from Airtable",
+      "file": "schedule_instagram_content_from_airtable.json",
+      "category": "Social_Media"
+    },
+    {
+      "name": "YouTube Comment Summarizer",
+      "file": "youtube_comment_summarizer.json",
+      "category": "Social_Media"
+    }
+  ],
+  "Travel": [
+    {
+      "name": "Airport Lounge Finder",
+      "file": "airport_lounge_finder.json",
+      "category": "Travel"
+    },
+    {
+      "name": "Currency Exchange Estimator",
+      "file": "currency_exchange_estimator.json",
+      "category": "Travel"
+    },
+    {
+      "name": "Flight Price Drop Alert",
+      "file": "flight_price_drop_alert.json",
+      "category": "Travel"
+    },
+    {
+      "name": "Hotel Review Sentiment",
+      "file": "hotel_review_sentiment.json",
+      "category": "Travel"
+    },
+    {
+      "name": "Local Attraction Recommender",
+      "file": "local_attraction_recommender.json",
+      "category": "Travel"
+    },
+    {
+      "name": "Road Trip Stop Planner",
+      "file": "road_trip_stop_planner.json",
+      "category": "Travel"
+    },
+    {
+      "name": "Travel Advisory Monitor",
+      "file": "travel_advisory_monitor.json",
+      "category": "Travel"
+    },
+    {
+      "name": "Travel Itinerary Builder",
+      "file": "travel_itinerary_builder.json",
+      "category": "Travel"
+    },
+    {
+      "name": "Visa Requirement Checker",
+      "file": "visa_requirement_checker.json",
+      "category": "Travel"
+    },
+    {
+      "name": "Weather Packing List Generator",
+      "file": "weather_packing_list_generator.json",
+      "category": "Travel"
+    }
+  ]
+}
